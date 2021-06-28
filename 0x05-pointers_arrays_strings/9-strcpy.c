@@ -1,3 +1,8 @@
+/*
+ * File: 9-strcpy.c
+ * Auth: Olare Odhiambo
+ */
+
 #include "holberton.h"
 
 /**
