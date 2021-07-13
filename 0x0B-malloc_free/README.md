@@ -1,1 +1,1 @@
-c-malloc, free
+c-malloc, free allocation of memory
